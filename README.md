@@ -1,8 +1,8 @@
 # Zachary Wiebe
 <table>
 <tr>
-<td><img src="assets/envelope-solid.svg" alt="envelope" width="25px"></img></td>
 <td><a href="mailto:zach@zachw.ca"><i>zach@zachw.ca</i></p></td>
+<td><a href="zachw.ca"><i>zachw.ca</i></p></td>
 </tr>
 </table>
 
