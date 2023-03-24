@@ -7,4 +7,4 @@
 </table>
 
 
-#### Fullstack developer with a focus on building great experiences for demanding users. Experience both in the Jamstack and on Wordpress.
+#### Fullstack developer with a focus on building great experiences for demanding users.
